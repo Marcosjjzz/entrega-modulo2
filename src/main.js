@@ -1,3 +1,2 @@
-import "./style.css";
-
-console.log("Hello from main");
+console.log ("Cena de cumpleaños entre amigos")
+console.log ((120-18)/6)
